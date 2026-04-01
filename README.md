@@ -1,5 +1,45 @@
 # Cursor Setup Portfolio Project
 
+## Project: AI-Powered SEO Content Production Research
+
+### Why I chose this topic
+AI is transforming SEO workflows, especially in content production and scaling. I wanted to understand how top experts are leveraging AI while maintaining ranking quality.
+
+### Why I chose these experts
+
+The selected experts are not general marketers, but practitioners who actively build, test, and scale SEO systems in real-world environments.
+
+They were chosen based on three criteria:
+
+1. Proven Execution
+These individuals are actively running SEO campaigns, agencies, or content platforms, not just teaching theory. Their insights reflect real-world application rather than abstract concepts.
+
+2. Focus on AI + SEO Integration
+Each expert has demonstrated experience or thought leadership in integrating AI into SEO workflows, particularly in content production, optimization, and scaling strategies.
+
+3. Diverse Perspectives within SEO
+The group includes specialists across different areas of SEO:
+- Technical and testing-focused (e.g. experimental SEO and ranking factors)
+- Content and editorial strategy (long-form, high-quality content systems)
+- Semantic and topical authority approaches
+
+This mix ensures that the research captures a well-rounded view of how AI is being applied across the SEO landscape, rather than relying on a single methodology.
+
+### What I did
+- Identified 10 high-level SEO practitioners
+- Collected YouTube transcripts and LinkedIn posts
+- Organized insights into structured research folders
+
+### Key early insights
+- AI alone is not enough — human editing is critical
+- Topical authority matters more than content volume
+- Internal linking and structure still dominate rankings
+
+### Research approach
+This project focuses on collecting high-signal content from proven practitioners and organizing it into structured insights. Rather than maximizing volume, the approach prioritizes quality, relevance, and applicability for building real-world SEO strategies.
+
+---
+
 ## 1. Tools Installed
 - Cursor IDE
 - Claude Code Extension
