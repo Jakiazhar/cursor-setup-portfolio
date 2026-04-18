@@ -1,4 +1,4 @@
-# Julian Goldie - AI SEO Strategy
+# Julian Goldie - ChatGPT SEO Strategy: How I Increased SEO Traffic by 50% With ChatGPT
 
 Video Link: https://www.youtube.com/watch?v=LgUqwmPm-DU&t=13s
 
