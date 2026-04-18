@@ -1,5 +1,13 @@
 # Cursor Setup Portfolio Project
 
+## Playbook
+
+This repository now includes a complete AI-powered SEO content production playbook based on the research.
+
+See: AI_SEO_PLAYBOOK.md
+
+---
+
 ## Project: AI-Powered SEO Content Production Research
 
 ### Why I chose this topic
