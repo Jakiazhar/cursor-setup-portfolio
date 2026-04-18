@@ -1,10 +1,27 @@
 # Cursor Setup Portfolio Project
 
-## Playbook
+## Playbook / SOP
 
-This repository now includes a complete AI-powered SEO content production playbook based on the research.
+This repository now includes a complete playbook for AI-powered SEO content production based on the research conducted.
 
-See: AI_SEO_PLAYBOOK.md
+The playbook translates insights from multiple experts into a structured, actionable SOP covering:
+- Topic research and clustering
+- Content planning and topical authority
+- AI-assisted content generation
+- Human editing and optimization
+- Internal linking strategy
+- Publishing and indexing
+- Performance tracking and iteration
+
+It also includes critical analysis sections such as:
+- Where experts disagree
+- What strategies were rejected and why
+- Original ideas beyond existing sources
+- Limitations of the playbook
+- Evaluation of which experts to follow (and not follow)
+
+###View the full playbook here:  
+AI_SEO_PLAYBOOK.md
 
 ---
 
